@@ -1,4 +1,8 @@
 # Databricks notebook source
+print(4)
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel turpis dui. Fusce commodo sit amet nisi a scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce id laoreet augue. Praesent ac massa a dolor egestas egestas id ut erat. Proin sit amet magna urna. Donec volutpat nisi ligula, a fringilla tortor ultricies non. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam at rhoncus quam, ut ultricies erat. Morbi placerat dictum maximus. Suspendisse potenti.
 # MAGIC
